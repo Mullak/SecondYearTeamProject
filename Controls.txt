@@ -1,0 +1,1 @@
+WASD to move,  space to shoot, p to pause and escape to quit while paused.
